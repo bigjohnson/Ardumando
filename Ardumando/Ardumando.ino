@@ -1,18 +1,13 @@
 /*			          *
- *  Arduino Power Ethernet Server *
- *	    11 May 2011           *
- *         Basic Arduino          *
- *     power ethernet server      *
- *   a command line interface     *
+ *  Arduino Switch Web Server     *
+ *	    24 March 2015         *
  *        by Alberto Panu         *
  *      alberto[at]panu.it        *
  *       based on work of         *
- *         Steve Lentz            *
- *    stlentz[at]gmail[dot]com    *
 
-    copyright Alberto Panu 2012
+    copyright Alberto Panu 2015
     
-    Ardupower https://github.com/bigjohnson/Ardumando
+    Ardumando https://github.com/bigjohnson/Ardumando
     
     Your comments and suggestion are welcomed to alberto[at]panu.it
     
