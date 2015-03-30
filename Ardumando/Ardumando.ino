@@ -533,7 +533,7 @@ boolean index_handler(MyTinyWebServer& web_server) {
 		</tr>\n\
 	</table>\n\
       	     <br><br><div id=\"messaggio\"> </div>\n\
-      	     <br>Don't exaggerate with the number of client, Arduino has an 8 bit 16 MHz cpu!\n\ 
+      	     <br>Don't exaggerate with the number of client, Arduino has an 8 bit 16 MHz cpu!\n\
 		</div>\n\
 	</body>\n\
 </html>");
