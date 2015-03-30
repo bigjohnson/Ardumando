@@ -212,7 +212,7 @@ boolean index_handler(MyTinyWebServer& web_server) {
 \n\
       	if (JSONData.IO2 == \"H\") {\n\
       		IO2.style.backgroundColor=\"green\";\n\
-      	        IO2.firstChild.data=port_high;\n\      	       
+      	        IO2.firstChild.data=port_high;\n\
       	} else {\n\
       		IO2.style.backgroundColor=\"red\";\n\
       	        IO2.firstChild.data=port_low;\n\
@@ -419,7 +419,7 @@ boolean index_handler(MyTinyWebServer& web_server) {
       	}\n\
       	cambiacolore(\"aquamarine\");\n\
       	avviso.firstChild.data=\"Suspended app, to run click on Start\";\n\
-      	momento_differenza.firstChild.data=\"X\";\n\      	
+      	momento_differenza.firstChild.data=\"X\";\n\
       	buttonferma.disabled=true;\n\
       	disabilitabottoni();\n\
       }\n\
