@@ -2,6 +2,7 @@ Ardumando
 ==========
 
 Project to switch Arduino output from a web browser with json.
+Actually works only with arduino 1.0.*
 
 Your comments and suggestion are welcomed to alberto[at]panu.it
 
