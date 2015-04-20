@@ -604,7 +604,7 @@ void loop() {
   }
   
   unsigned int midread = 0;
-  for (byte i=0; i <= 10; i++) {
+  for (byte i=0; i < 10; i++) {
     midread = midread + analogRead(actualanalog);
   }
   analogValues[actualanalog] = midread / 10;
